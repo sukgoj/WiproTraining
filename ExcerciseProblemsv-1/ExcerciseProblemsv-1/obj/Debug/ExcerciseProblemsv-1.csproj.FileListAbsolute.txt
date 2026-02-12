@@ -1,0 +1,7 @@
+C:\git\WiproTraining\ExcerciseProblemsv-1\ExcerciseProblemsv-1\bin\Debug\ExcerciseProblemsv-1.exe.config
+C:\git\WiproTraining\ExcerciseProblemsv-1\ExcerciseProblemsv-1\bin\Debug\ExcerciseProblemsv-1.exe
+C:\git\WiproTraining\ExcerciseProblemsv-1\ExcerciseProblemsv-1\bin\Debug\ExcerciseProblemsv-1.pdb
+C:\git\WiproTraining\ExcerciseProblemsv-1\ExcerciseProblemsv-1\obj\Debug\ExcerciseProblemsv-1.csproj.AssemblyReference.cache
+C:\git\WiproTraining\ExcerciseProblemsv-1\ExcerciseProblemsv-1\obj\Debug\ExcerciseProblemsv-1.csproj.CoreCompileInputs.cache
+C:\git\WiproTraining\ExcerciseProblemsv-1\ExcerciseProblemsv-1\obj\Debug\ExcerciseProblemsv-1.exe
+C:\git\WiproTraining\ExcerciseProblemsv-1\ExcerciseProblemsv-1\obj\Debug\ExcerciseProblemsv-1.pdb

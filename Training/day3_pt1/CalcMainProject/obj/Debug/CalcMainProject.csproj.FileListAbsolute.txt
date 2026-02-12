@@ -1,0 +1,10 @@
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\bin\Debug\CalcMainProject.exe.config
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\bin\Debug\CalcMainProject.exe
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\bin\Debug\CalcMainProject.pdb
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\bin\Debug\ClsCalculation.dll
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\bin\Debug\ClsCalculation.pdb
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\obj\Debug\CalcMainProject.csproj.AssemblyReference.cache
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\obj\Debug\CalcMainProject.csproj.CoreCompileInputs.cache
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\obj\Debug\CalcMain.13DE87FE.Up2Date
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\obj\Debug\CalcMainProject.exe
+C:\git\WiproTraining\Training\day3_pt1\CalcMainProject\obj\Debug\CalcMainProject.pdb
