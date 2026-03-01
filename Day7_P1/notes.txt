@@ -1,0 +1,103 @@
+Delegates : A delegate is reference type variable, that which allows you to store the reference of a method. It is similar to function pointers concept in c/c++. 
+
+If you want to store the reference of a method, then we need delegates. 
+
+For delegates we can use static methods as normal method can be accessable by using objects. 
+
+declaration : 
+
+public delegate void Show(string s);
+
+show is a delegate, that which contains all the method references of string parameter. 
+
+Assume, we have a method as hello as
+
+public static void Hello(string s) 
+{
+ ...
+ ...
+}
+
+To create a delegate and add the method, then 
+
+delegate_name obj = new delegate_name(method_name);
+
+Show obj = new Show(Hello);
+
+Here Show is the delegate and Hello is the method. 
+
+Then once you invoke the Show method, then the code in Hello method gets fired. 
+
+There are various types of delegates known as 
+
+(i) Single Cast Delegate : It is a delegate that which stores reference of one method at a time. 
+
+(ii) Multi-Cast Delegate : A delegate that which stores the reference of more than one method at a time known as multi-cast delegate. 
+
+What is an Event : Any recognizable work is done known as event. Now, here in delegates we need to raise the events based on context. 
+
+public delegate void delegatename(pars);
+public event delegatename event1;
+public event delegatename event2;
+
+In Delegates, we various new types as 
+
+1) Action Delegates : These are the delegates that which never returns any value to the main method. They  contains only void methods. 
+
+2) Predicates : Allows you to take only the Boolean methods. 
+
+3) Function Delegates : These are the delegates that which returns value based on calculation, 
+
+Threading : It is a sequential execution of path of program. In multi-threading more than one task can be performed in a single program. If you want to make best utilization of CPU resources, then we need the help of Multi-Threading. 
+
+For Multi-Threading we need
+
+using System.Threading;
+
+Sleep : Makes a thread to wait for specific milliseconds time. 
+
+For multi-threading we need to use static methods.
+
+You can create a thread by using ThreadStart 
+
+Example : 
+
+ThreadStart th1 = new ThreadStart(method_name);
+
+Synchronization : If 2 or more threads trying to access the same resource at same time, it leads to strange result, its known as synchronization. To overcome this until one thread leaves particular location another thread will not be entered. 
+
+This is one kind of locking mechanism. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

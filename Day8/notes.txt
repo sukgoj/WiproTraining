@@ -1,0 +1,46 @@
+Lambda Expression : 
+
+=> Operator known as lambda expression, allows you to 
+
+extract data from Generic List/Database/Xml file. 
+
+=> this operator known as lambda operator. 
+
+var type is an anonymous type, that which allows you to store any kind of data, but var cannot be passed as parameter. 
+
+C# reflection is a tool that which allows you to interact with metadata of assemblies, classes, methods, properties and fields at runtime. 
+
+Reflection allows you to 
+
+-> Discover types in an assembly
+
+-> Get class methods/properties
+
+-> Create Objects dynamically
+
+-> Invoke methods at runtime
+
+-> Build plug-in systems, ORMs, frameworks 
+
+To deal with Reflection we need to add System.Reflection namespace
+
+You can get the metadata of reflection by using Type 
+
+Attributes in c# are used to add metadata or declarative information to program elements. 
+
+Attributes are defined using [] placed directly above the element they desire
+
+There are 2 types of attributes known as
+
+1) Predefined Attributes : Provided by .NET framework
+
+2) Custom Attributes  Defined by developers for specific use cases
+
+
+
+
+
+
+
+
+

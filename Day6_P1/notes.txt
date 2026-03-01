@@ -1,0 +1,24 @@
+Extension Methods : Allows you to add the methods to the class from outside the class.  Assume a class is created by someone and you dont have copy of that,
+but you need to add some methods to that class, can be done by using
+extension methods. 
+
+For extension method we need to use static classes and static methods. 
+
+Generics : Generics provides an opportunity to protect a field in a class. Collections drawback is they can take any kind of data, means if i want to make any list only for Employees we cannot do that, but we can do that by using generics. 
+
+If you want to make any method as write once and apply for all types, then we need the help of generics. 
+
+Generics can be defined by using <T>, means in place of <T>, we can write any value types or reference types or custom types. 
+
+Advantages : 
+
+	(i) Write Once and apply for all types
+
+	(ii) Provides security to the data 
+
+	(iii) No Typecasting required
+
+	(iv) Reduces the size of the program. 
+
+
+

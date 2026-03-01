@@ -1,0 +1,60 @@
+Joins : Allows you to access data from more than one table,
+
+There are various types of joins known as 
+
+1) Inner Join : Acts as an intersect Operator, used to extract data from more than one table. 
+
+select field(s) from Table1 INNER JOIN Table2 ON
+Table1.Primary_key = Table2.Foreign_Key
+
+2) Outer Join : There are various types of OUTER joins as 
+
+	-> Left Outer Join : All records from the LEFT-SIDE table, and matching records from the right-side table. If any child table records are not there that would be replaced with NULL keyword. 
+
+	-> Right Outer Join : All records from the RIGHT-SIDE Table, and matching records from the left-side table. If any child table records are not there then would be replaced with NULL keyword. 
+
+	-> Full Outer Join : All records from both LEFT-AND Right Table tables. 
+
+3) Cross Join : Generates cartician production of two tables. Table A contains n records and Table B contains m records, then it generates n*m records. 
+
+4) Self Join : If a table joins with itself known as self-join. If you want to make hierarchical relationship data, then we need the help of self-join. 
+
+Subquery : Sometimes, it is not possible to extract data by using single select statement, to overcome this we need the help of subqueries. A subquery is a query, that which is having another query inside. The query which is inside known as INNER Query, the Query which is outside known as outer query. Every time, the result of the inner query will be send as input to the outer query. 
+
+-- Display Max.salary 
+
+There are 2 types of subqueries known as
+
+(i) Single Row : A subquery, that which returns only one row at a time known as single row. 
+
+(ii) Multi Row : A subquery, that which returns more than one row known as multi-row subquery. 
+
+If a subquery returns more than one row, we can handle them by using either ALL or ANY Operator. 
+
+ALL -> This operator acts as AND operator. 
+
+ANY -> This operator acts as ANY operator. 
+
+Empno <> ALL(10,20,30) means 
+
+Empno <> 10 AND Empno <> 20 AND Empno <> 30 
+
+Empno = ANY(10,20,30) means 
+
+Empno = 10 OR Empno = 20 OR Empno = 30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

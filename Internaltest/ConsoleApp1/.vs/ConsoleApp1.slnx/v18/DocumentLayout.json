@@ -10,19 +10,16 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\git\\wiprotraining\\internaltest\\consoleapp1\\consoleapp1\\prob1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|C:\\git\\WiproTraining\\Internaltest\\ConsoleApp1\\consoleapp1\\prob1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\prob1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\git\\wiprotraining\\internaltest\\consoleapp1\\consoleapp1\\prob2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|C:\\git\\WiproTraining\\Internaltest\\ConsoleApp1\\consoleapp1\\prob2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\prob2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\git\\wiprotraining\\internaltest\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|C:\\git\\WiproTraining\\Internaltest\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF480282-DC5B-4E47-AB16-056DBCAF2AB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\git\\wiprotraining\\internaltest\\consoleapp1\\consoleapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +39,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Prob3.cs",
               "ToolTip": "C:\\git\\WiproTraining\\Internaltest\\ConsoleApp1\\ConsoleApp1\\Prob3.cs",
               "RelativeToolTip": "ConsoleApp1\\Prob3.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T04:41:28.211Z",
               "EditorCaption": ""
@@ -57,8 +54,7 @@
               "RelativeToolTip": "ConsoleApp1\\Prob2.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwC8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T03:55:57.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T03:55:57.036Z"
             },
             {
               "$type": "Document",
@@ -69,8 +65,7 @@
               "ToolTip": "C:\\git\\WiproTraining\\Internaltest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-13T03:51:02.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T03:51:02.524Z"
             },
             {
               "$type": "Document",
@@ -82,8 +77,7 @@
               "RelativeToolTip": "ConsoleApp1\\Prob1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T03:35:01.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T03:35:01.635Z"
             },
             {
               "$type": "Document",
@@ -95,8 +89,7 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T03:34:35.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T03:34:35.049Z"
             }
           ]
         }
