@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Student Management</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-dark bg-primary">
+<div class="container-fluid">
+<span class="navbar-brand">Spring Flowers School</span>
+
+<button class="btn btn-light" id="timetableBtn">
+Time Table
+</button>
+</div>
+</nav>
+
+
+<!-- Main Container -->
+<div class="container main-container">
+
+<h2 class="text-center mt-4">Student Dashboard</h2>
+
+
+<!-- Timetable Section -->
+<div id="timetableSection" class="timetable-container">
+
+<h3 class="text-center mb-3">My Time Table</h3>
+
+<table class="table table-bordered table-striped">
+
+<thead class="table-primary">
+<tr>
+<th>Day</th>
+<th>9 - 10</th>
+<th>10 - 11</th>
+<th>11 - 12</th>
+<th>1 - 2</th>
+<th>2 - 3</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Monday</td>
+<td>Math</td>
+<td>English</td>
+<td>Science</td>
+<td>History</td>
+<td>Sports</td>
+</tr>
+
+<tr>
+<td>Tuesday</td>
+<td>Physics</td>
+<td>Chemistry</td>
+<td>Math</td>
+<td>Computer</td>
+<td>English</td>
+</tr>
+
+<tr>
+<td>Wednesday</td>
+<td>Biology</td>
+<td>Math</td>
+<td>English</td>
+<td>Geography</td>
+<td>Sports</td>
+</tr>
+
+<tr>
+<td>Thursday</td>
+<td>Chemistry</td>
+<td>Physics</td>
+<td>Math</td>
+<td>Computer</td>
+<td>English</td>
+</tr>
+
+<tr>
+<td>Friday</td>
+<td>English</td>
+<td>Science</td>
+<td>Math</td>
+<td>Art</td>
+<td>Sports</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+
+<script>
+
+var btn = document.getElementById("timetableBtn")
+var section = document.getElementById("timetableSection")
+
+section.style.display = "none"
+
+btn.onclick = function(){
+section.style.display = "block"
+}
+
+</script>
+
+</body>
+</html>
